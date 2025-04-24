@@ -1,0 +1,21 @@
+{
+  "description" : "Test Project",
+  "company" : "Test",
+  "metadataBaseFolder" : "${PROJECT_HOME}/metadata",
+  "unitTestsBasePath" : "${PROJECT_HOME}",
+  "dataSetsCsvFolder" : "${PROJECT_HOME}/datasets",
+  "enforcingExecutionInHome" : true,
+  "parentProjectName" : "default",
+  "config" : {
+    "variables" : [ {
+      "name" : "SF_Url",
+      "value" : "https://login.salesforce.com/services/Soap/u/60.0"
+    }, {
+      "name" : "SF_Username",
+      "value" : "saiasishb2801-6ebj@force.com"
+    }, {
+      "name" : "SF_PasswordToken",
+      "value" : "A@mmadad1VMjX7JN4Nskvfnq30IHupa9vQ"
+    } ]
+  }
+}

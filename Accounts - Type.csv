@@ -1,0 +1,99 @@
+Source Id - Lookup,Source Type - Lookup
+ahop_training_1@skunk Mining -  The Painted Veil -  1,Prospect
+ahop_training_1@eel Marketing -  Blue Remembered Earth -  2,Prospect
+ahop_training_1@fox Farming -  A Confederacy of Dunces -  3,Prospect
+ahop_training_1@gerbil Retail -  A Glass of Blessings -  4,Prospect
+ahop_training_1@hippopotamus Community-Services -  The Line of Beauty -  5,Prospect
+ahop_training_1@grasshopper Sales -  It's a Battlefield -  6,Prospect
+ahop_training_1@trout Consulting -  In a Dry Season -  7,Prospect
+ahop_training_1@goldfish Community-Services -  A Confederacy of Dunces -  8,Prospect
+ahop_training_1@mule Legal -  Tiger! Tiger! -  10,Prospect
+ahop_training_1@serval Community-Services -  Number the Stars -  11,Prospect
+ahop_training_1@monkey Banking -  Some Buried Caesar -  12,Prospect
+ahop_training_1@muskrat Manufacturing -  Now Sleeps the Crimson Petal -  13,Prospect
+ahop_training_1@deer Mining -  A Scanner Darkly -  14,Prospect
+ahop_training_1@duck Healthcare -  Tiger! Tiger! -  15,Prospect
+"ahop_training_1@lion Legal -  Absalom, Absalom! -  16",Prospect
+"ahop_training_1@eel Government -  If Not Now, When? -  17",Prospect
+ahop_training_1@wolf Accounting -  In Death Ground -  18,Prospect
+ahop_training_1@wallaby Community-Services -  The Other Side of Silence -  19,Prospect
+ahop_training_1@salmon Technology -  In a Glass Darkly -  20,Prospect
+ahop_training_1@guinea pig IT -  Postern of Fate -  21,Prospect
+ahop_training_1@dinosaur Healthcare -  The Needle's Eye -  22,Prospect
+ahop_training_1@alpaca Consulting -  That Hideous Strength -  23,Prospect
+ahop_training_1@crocodile Government -  Paths of Glory -  24,Prospect
+ahop_training_1@gnu Marketing -  That Hideous Strength -  25,Prospect
+ahop_training_1@monkey Banking -  To Sail Beyond the Sunset -  26,Direct
+ahop_training_1@wildebeest Community-Services -  Ring of Bright Water -  27,Direct
+ahop_training_1@marten Education -  Oh! To be in England -  28,Direct
+ahop_training_1@mole Mining -  No Longer at Ease -  29,Direct
+ahop_training_1@bee Government -  Behold the Man -  30,Direct
+ahop_training_1@bear Banking -  The Far-Distant Oxus -  31,Direct
+ahop_training_1@giraffe Consulting -  A Swiftly Tilting Planet -  32,Direct
+ahop_training_1@goose Healthcare -  Dance Dance Dance -  33,Direct
+ahop_training_1@yellowjacket Legal -  The House of Mirth -  34,Direct
+ahop_training_1@toad Sales -  An Evil Cradling -  35,Direct
+ahop_training_1@cockroach Legal -  The Needle's Eye -  36,Direct
+ahop_training_1@elk Mining -  No Longer at Ease -  37,Direct
+ahop_training_1@pig Consulting -  Have His Carcase -  38,Direct
+ahop_training_1@yellowjacket Banking -  Mother Night -  39,Direct
+ahop_training_1@hound IT -  The Grapes of Wrath -  40,Direct
+ahop_training_1@woodchuck Marketing -  After Many a Summer Dies the Swan -  41,Direct
+ahop_training_1@salmon Education -  The Line of Beauty -  42,Direct
+ahop_training_1@sheep Community-Services -  The Needle's Eye -  43,Direct
+ahop_training_1@otter Manufacturing -  Tiger! Tiger! -  44,Direct
+ahop_training_1@mink Design -  The Golden Apples of the Sun -  45,Direct
+ahop_training_1@fox Consulting -  This Lime Tree Bower -  46,Direct
+ahop_training_1@turtle  Legal -  Of Human Bondage -  47,Direct
+ahop_training_1@moose Farming -  A Scanner Darkly -  48,Direct
+ahop_training_1@cod Sales -  A Time of Gifts -  49,Direct
+ahop_training_1@salmon Healthcare -  The Doors of Perception -  50,Direct
+"ahop_training_1@rhinoceros Real-Estate -  Those Barren Leaves, Thrones, Dominations -  51",Channel
+"ahop_training_1@mule Community-Services -  The World, the Flesh and the Devil -  52",Channel
+"ahop_training_1@mule Hospitality -  Ah, Wilderness! -  53",Channel
+ahop_training_1@sheep Farming -  What's Become of Waring -  54,Channel
+ahop_training_1@marten Accounting -  Where Angels Fear to Tread -  55,Channel
+ahop_training_1@lion Construction -  Recalled to Life -  56,Channel
+ahop_training_1@dog Banking -  To Your Scattered Bodies Go -  57,Channel
+ahop_training_1@seal Farming -  The Line of Beauty -  58,Channel
+ahop_training_1@goldfish Government -  The Glory and the Dream -  59,Channel
+"ahop_training_1@yellowjacket Government -  Alone on a Wide, Wide Sea -  60",Channel
+ahop_training_1@chinchilla IT -  Dying of the Light -  61,Channel
+ahop_training_1@monkey Marketing -  Fear and Trembling -  62,Channel
+ahop_training_1@serval Advertising -  For Whom the Bell Tolls -  63,Channel
+ahop_training_1@marten Hospitality -  From Here to Eternity -  64,Channel
+ahop_training_1@mammoth IT -  A Glass of Blessings -  65,Channel
+ahop_training_1@panda IT -  A Passage to India -  66,Channel
+ahop_training_1@reindeer Healthcare -  The Stars' Tennis Balls -  67,Channel
+ahop_training_1@seal Advertising -  Many Waters -  68,Channel
+ahop_training_1@caribou Advertising -  Terrible Swift Sword -  69,Channel
+ahop_training_1@eagle Marketing -  Time To Murder And Create -  70,Channel
+ahop_training_1@swan Technology -  A Darkling Plain -  71,Channel
+ahop_training_1@louse Design -  The Little Foxes -  72,Channel
+ahop_training_1@alpaca Education -  All the King's Men -  73,Channel
+ahop_training_1@hare Sales -  Recalled to Life -  74,Channel
+ahop_training_1@termite Farming -  To Your Scattered Bodies Go -  75,Channel
+ahop_training_1@camel Administration -  A Confederacy of Dunces -  76,Other
+ahop_training_1@yellowjacket Marketing -  This Side of Paradise -  77,Other
+"ahop_training_1@ant IT -  Alone on a Wide, Wide Sea -  78",Other
+ahop_training_1@locust Retail -  The Proper Study -  79,Other
+ahop_training_1@wallaby Administration -  A Scanner Darkly -  80,Other
+ahop_training_1@fox Technology -  A Farewell to Arms -  81,Other
+ahop_training_1@worm Technology -  The House of Mirth -  82,Other
+ahop_training_1@beaver Sales -  Taming a Sea Horse -  83,Other
+ahop_training_1@walrus Advertising -  The Needle's Eye -  84,Other
+ahop_training_1@beaver Accounting -  Vanity Fair -  86,Other
+ahop_training_1@bear Government -  For Whom the Bell Tolls -  87,Other
+ahop_training_1@deer Sales -  The Line of Beauty -  88,Other
+ahop_training_1@tortoise Government -  A Glass of Blessings -  89,Other
+ahop_training_1@cicada Government -  If I Forget Thee Jerusalem -  90,Other
+ahop_training_1@giraffe Hospitality -  The Skull Beneath the Skin -  91,Other
+ahop_training_1@crab Education -  Ring of Bright Water -  92,Other
+ahop_training_1@alligator Technology -  By Grand Central Station I Sat Down and Wept -  93,Other
+ahop_training_1@cricket Design -  Antic Hay -  94,Other
+ahop_training_1@manatee Administration -  Clouds of Witness -  95,Other
+ahop_training_1@pig Government -  No Longer at Ease -  96,Other
+ahop_training_1@mallard IT -  The Painted Veil -  97,Other
+ahop_training_1@sea lion Consulting -  Tirra Lirra by the River -  98,Other
+ahop_training_1@moose Retail -  The Other Side of Silence -  99,Other
+ahop_training_1@donkey Accounting -  The Daffodil Sky -  100,Other
